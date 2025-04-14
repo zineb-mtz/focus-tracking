@@ -1,4 +1,4 @@
-# 🧠 Pomodoro Focus Log
+# 🍅 Pomodoro Focus Log Pomodoro Focus Log
 
 | Date       | Task                   | Category  | Pomodoros | Duration (min) |
 |------------|------------------------|-----------|-----------|----------------|
